@@ -38,6 +38,12 @@ console.log(ageSerah >= 18);
 console.loog(ageJuma >= 18);
 
 //Ternary Operators in java script
-let age = 18;
+let Age = 18;
 let voting = age > 18 ? age : Age;
 console.log(voting);
+// Ternary operator example
+const age = 20;
+const message = age >= 18 ? "You are an adult" : "You are a minor";
+
+console.log(message); // Output: "You are an adult"
+
